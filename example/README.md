@@ -23,9 +23,25 @@ It shows off several features and structures like:
 - Small use of the Bash function library in our base images.
 - The use of Docker label schema.
 
+## WARNING! THIS IS A BETA VERSION!
+
+This Home Assistant Apps repository contains beta releases of apps.
+
+- They might stop working at any time.
+- They could have a negative impact on your system.
+
+This repository was created for:
+
+- Anybody willing to test.
+- Anybody interested in trying out upcoming apps or app features.
+
+If you are more interested in stable releases of our apps:
+
+<https://github.com/ioncb-hassio-addons/repository>
+
 [github-sponsors-shield]: https://avatars.githubusercontent.com/u/39927874?s=160&v=4
 [github-sponsors]: https://github.com/sponsors/jhoncb
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-v0.0.14-blue.svg
-[release]: https://github.com/ioncb-hassio-addons/app-example/tree/v0.0.14
+[release-shield]: https://img.shields.io/badge/version-v0.0.15-blue.svg
+[release]: https://github.com/ioncb-hassio-addons/app-example/tree/v0.0.15
